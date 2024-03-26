@@ -1,5 +1,6 @@
 # Enum in C
-
+**Reference:**
+- https://www.pietrolc.com/size-of-enum-type/?adtref=1711419143461
 ## How is enum data stored in memory?
 Enum data is typically stored in memory as integer values. Each enum value is assigned an integer that represents its position within the enum. When the program runs, these integer values are used to represent the enum values in memory. This allows for efficient storage and comparison of enum values within the program.
 
